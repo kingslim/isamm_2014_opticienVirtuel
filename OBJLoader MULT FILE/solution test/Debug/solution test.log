@@ -1,0 +1,13 @@
+﻿Build started 03/03/2014 09:22:50.
+     1>Project "C:\Users\Rafrafi\Documents\Visual Studio 2013\Projects\OBJLoader MULT FILE\solution test\solution test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio installed 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\solution test.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "solution test.cpp"
+         solution test.cpp
+     1>c:\users\rafrafi\documents\visual studio 2013\projects\objloader mult file\solution test\solution test.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\rafrafi\documents\visual studio 2013\projects\objloader mult file\solution test\solution test.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\Users\Rafrafi\Documents\Visual Studio 2013\Projects\OBJLoader MULT FILE\solution test\solution test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.05
